@@ -69,3 +69,5 @@ For this workshop you need the following:
 Find common terminology for reference [here](./CheatSheet.md)
 
 Here I am making changes to README.md
+
+This time I'm creating a PR and NOT merging directly into main.
